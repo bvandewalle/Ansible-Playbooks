@@ -1,3 +1,5 @@
+# Source: http://johndstein-blog.logdown.com/posts/356381
+
 -
  name: DockerInstall 
  hosts: docker  
